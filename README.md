@@ -9,6 +9,6 @@ Althoug fully functional we are looking for collaboration on localizing it to di
 Download the matching version of the XLL with your excel option (32-bit or 64-Bit) and open it with excel.
 # Development
 Programming and Research: José Ricardo Varela.
-Testing and Documentation: Budana Prajadis.
+Testing and Documentation: Budana Prijadi.
 # Acknowledgement
 Simulacion integrates with excel trough the Excelent software Excel-DNA (https://github.com/Excel-DNA/ExcelDna)
