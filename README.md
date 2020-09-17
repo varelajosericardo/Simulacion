@@ -5,7 +5,7 @@ Simulación 5.0 is a lightweight yet complete Monte Carlo simulation engine for 
 # Stage
 Althoug fully functional we are looking for collaboration on localizing it to different lenguages (Spanish, English and Indonesian already available) and also for hard test the functionalities to ensure no bugs are left in the software.
 # Install
-Download the mathing version of the XLL with your excel option (32-bit or 64-Bit)
+Download the matching version of the XLL with your excel option (32-bit or 64-Bit) and open it with excel.
 # Development
 Programming and Research: José Ricardo Varela.
 Testing and Documentation: Budana Prajadis.
