@@ -6,5 +6,8 @@ Simulación 5.0 is a lightweight yet complete Monte Carlo simulation engine for 
 Althoug fully functional we are looking for collaboration on localizing it to different lenguages (Spanish, English and Indonesian already available) and also for hard test the functionalities to ensure no bugs are left in the software.
 # Install
 Download the mathing version of the XLL with your excel option (32-bit or 64-Bit)
+# Development
+Programming and Research: José Ricardo Varela.
+Testing and Documentation: Budana Prajadis.
 # Acknowledgement
 Simulacion integrates with excel trough the Excelent software Excel-DNA (https://github.com/Excel-DNA/ExcelDna)
