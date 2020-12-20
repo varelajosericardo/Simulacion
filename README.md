@@ -33,7 +33,7 @@ Testing and Documentation: Budana Prijadi.
 Simulacion integrates with excel trough the Excelent software Excel-DNA (https://github.com/Excel-DNA/ExcelDna)
 
 # Localization contributors
-English - By José Ricardo Varela and Budana Prijadi
-Spanish - By José Ricardo Varela
-Indonesian - By Budana Prijadi
-Italian - By Franco Anzani
+- English - By José Ricardo Varela and Budana Prijadi
+- Spanish - By José Ricardo Varela
+- Indonesian - By Budana Prijadi
+- Italian - By Franco Anzani
