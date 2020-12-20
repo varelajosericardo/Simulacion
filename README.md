@@ -1,5 +1,5 @@
 # Simulacion
-Monte Carlo Simulation &amp; Distribution Best Fit utility.
+Monte Carlo Simulation &amp; and optimization utility.
 
 Simulacion 5.0 is a free Excel add-in to perform monte carlo simulations within excel.
 Simulación 5.0 is a lightweight yet complete Monte Carlo simulation engine for Microsoft Excel. It allows you to expand the spreadsheet functionalities to include Risk & Uncertainty analysis through probabilistic distributions in the otherwise static excel model analysis. Thousands of different outcomes can be evaluated within the same model and VaR analysis can be performed easily. In addition  to Monte Carlo capabilities, Simulación 5.0 includes OptiSim (propietary optimization genetic algorithm) for stochastic optimization, data to distribution fitting tool and Bootstrapping capabilities.
@@ -20,7 +20,7 @@ Continuous: Arcsine; Beta; Beta (Alternative); Bradford; Burr; Cauchy; Chi; Chi 
 - Bootstrapping tool.
 
 # Stage
-Althoug fully functional we are looking for collaboration on localizing it to different lenguages (Spanish, English and Indonesian already available) and also for hard test the functionalities to ensure no bugs are left in the software.
+Althoug fully functional we are looking for collaboration on localizing it to different lenguages and also for hard test the functionalities to ensure no bugs are left in the software.
 
 # Install
 Download the matching version of the XLL with your excel option (32-bit or 64-Bit) and open it with excel.
@@ -31,3 +31,9 @@ Testing and Documentation: Budana Prijadi.
 
 # Acknowledgement
 Simulacion integrates with excel trough the Excelent software Excel-DNA (https://github.com/Excel-DNA/ExcelDna)
+
+# Localization contributors
+English - By José Ricardo Varela and Budana Prijadi
+Spanish - By José Ricardo Varela
+Indonesian - By Budana Prijadi
+Italian - By Franco Anzani
