@@ -1,5 +1,5 @@
 # Simulacion
-Monte Carlo Simulation &amp; and optimization utility.
+Monte Carlo Simulation &amp; optimization utility.
 
 Simulacion 5.0 is a free Excel add-in to perform monte carlo simulations within excel.
 Simulación 5.0 is a lightweight yet complete Monte Carlo simulation engine for Microsoft Excel. It allows you to expand the spreadsheet functionalities to include Risk & Uncertainty analysis through probabilistic distributions in the otherwise static excel model analysis. Thousands of different outcomes can be evaluated within the same model and VaR analysis can be performed easily. In addition  to Monte Carlo capabilities, Simulación 5.0 includes OptiSim (propietary optimization genetic algorithm) for stochastic optimization, data to distribution fitting tool and Bootstrapping capabilities.
